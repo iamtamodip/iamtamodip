@@ -8,8 +8,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0077b5)](https://www.linkedin.com/in/iamtamodip//)
 [![Facebook](https://img.shields.io/badge/Facebook-2962FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/iamtamodip)
 [![Instagram](https://img.shields.io/badge/Instagram-%230A0A0A.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tamodip_221b/)
-[![Gmail](https://img.shields.io/badge/-envoy1084-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:iamtamodip@gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqpkvDQSjKRItXB2cl6pe9w)
+[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=flat&logo=Gmail&logoColor=white)](mailto:iamtamodip@gmail.com)
 
 Hey there 👋
 
@@ -31,7 +30,7 @@ const skills =
 
   frameworks:[Bootstrap, React.js, Express.js],
 
-  platforms :[ Firebase, Heroku, Google Cloud Platform, Amazon Web Services],
+  platforms :[Firebase, Heroku, Google Cloud Platform, Amazon Web Services],
 
 }
 
