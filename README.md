@@ -48,7 +48,8 @@ while(dev.isCoding() && dev.isStuck())
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtamodip&theme=algolia&&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtamodip&theme=algolia&&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ![Tamodip's github stats](https://github-readme-stats.vercel.app/api?username=iamtamodip&theme=algolia)
 
 ## 💻 Workspace Spec
