@@ -48,9 +48,9 @@ while(dev.isCoding() && dev.isStuck())
 
 ## &#x1f4c8; GitHub Stats
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtamodip&theme=algolia&&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ![Tamodip's github stats](https://github-readme-stats.vercel.app/api?username=iamtamodip&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtamodip&exclude_repo=IEEE-New)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Workspace Spec
 
@@ -58,4 +58,4 @@ while(dev.isCoding() && dev.isStuck())
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="images/marquee.svg" />
