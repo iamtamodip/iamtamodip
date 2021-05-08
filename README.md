@@ -48,6 +48,8 @@ while(dev.isCoding() && dev.isStuck())
 
 ## &#x1f4c8; GitHub Stats
 
+![](https://komarev.com/ghpvc/?username=iamtamodip&color=blueviolet)
+
 ![Tamodip's github stats](https://github-readme-stats.vercel.app/api?username=iamtamodip&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtamodip&exclude_repo=IEEE-New)](https://github.com/anuraghazra/github-readme-stats)
