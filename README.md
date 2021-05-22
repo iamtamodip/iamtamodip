@@ -52,7 +52,7 @@ while(dev.isCoding() && dev.isStuck())
 
 ![Tamodip's github stats](https://github-readme-stats.vercel.app/api?username=iamtamodip&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtamodip&exclude_repo=IEEE-New)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtamodip&exclude_repo=IEEE-New,iamtamodip.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Workspace Spec
 
